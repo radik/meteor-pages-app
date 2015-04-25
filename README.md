@@ -50,3 +50,4 @@ SELENIUM_BROWSER=chrome meteor run --test --once
 During tests run 2 screenshots are taken: first at the beginning and second after
 20 secs. In case of using phantomjs list of employees is not displayed, in case of
 firefox/chrome list of employees appears.
+Screenshots location meteor-pages-app/tests/cucumber/.
