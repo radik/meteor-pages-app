@@ -1,4 +1,4 @@
-# [Meteor Pages package](https://github.com/alethes/meteor-pages) issue
+# [Meteor Pages package issue](https://github.com/alethes/meteor-pages/issues/142)
 
 This repo contains app that demonstrates problem in using
 [meteor-pages](https://github.com/alethes/meteor-pages) in application
